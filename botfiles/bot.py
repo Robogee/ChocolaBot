@@ -3,8 +3,8 @@ import pymongo
 import json
 from discord.ext import commands,tasks
 
-DBCONNECT = 'mongodb+srv://jboss:i3WFBw9FVNGyobdm@chocolabot.kwkfj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
-TOKEN = 'ODQ2ODU0NTU5MTgzNTM2MTk4.YK1kxA.RZMHXVaxJPBILggyRVRyTrI0hak'
+DBCONNECT = ''
+TOKEN = ''
 PREFIX = 'c.'
 
 intents = discord.Intents.default()
